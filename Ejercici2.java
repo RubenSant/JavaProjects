@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Ejercici2 {
     public static void main(String[] args) {
     
-        int[] edad = {0};
+        int[] edad = {};
         int suma=0;
         Scanner entrada = new Scanner(System.in);
         int media=0;
